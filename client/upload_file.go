@@ -10,14 +10,14 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/Mrs4s/MiraiGo/client/internal/highway"
-	"github.com/Mrs4s/MiraiGo/client/internal/network"
-	"github.com/Mrs4s/MiraiGo/client/pb/cmd0x346"
-	"github.com/Mrs4s/MiraiGo/client/pb/exciting"
-	"github.com/Mrs4s/MiraiGo/client/pb/msg"
-	"github.com/Mrs4s/MiraiGo/internal/proto"
-	"github.com/Mrs4s/MiraiGo/message"
-	"github.com/Mrs4s/MiraiGo/utils"
+	"github.com/rhwong/MiraiGo/client/internal/highway"
+	"github.com/rhwong/MiraiGo/client/internal/network"
+	"github.com/rhwong/MiraiGo/client/pb/cmd0x346"
+	"github.com/rhwong/MiraiGo/client/pb/exciting"
+	"github.com/rhwong/MiraiGo/client/pb/msg"
+	"github.com/rhwong/MiraiGo/internal/proto"
+	"github.com/rhwong/MiraiGo/message"
+	"github.com/rhwong/MiraiGo/utils"
 )
 
 func init() {

@@ -8,9 +8,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Mrs4s/MiraiGo/client/pb/channel"
-	"github.com/Mrs4s/MiraiGo/message"
-	"github.com/Mrs4s/MiraiGo/utils"
+	"github.com/rhwong/MiraiGo/client/pb/channel"
+	"github.com/rhwong/MiraiGo/message"
+	"github.com/rhwong/MiraiGo/utils"
 )
 
 type (
